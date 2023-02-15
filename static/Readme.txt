@@ -24,12 +24,12 @@ b) Answer forensic2
 c) Remove user idontbelonghere
 d) This will cause a point deduction but do it anyway to see what happens: remove user ron
 See if you can figure out how to remove the penalty after triggering it
-e) Add user yang to the system
+e) Add user courtney to the system
 f) Create emeritusmentor group
 g) Add user sam to emeritusmentor group
 h) Remove user sam from sudo
 i) Add user chris to sudo group
-j) User ivan has file on his folder called clickonthistomakeyourdreamscometrue.dll. It is unauthorized so remove it.
+j) User yang has file on his folder called clickonthistomakeyourdreamscometrue.dll. It is unauthorized so remove it.
 k) remove unauthorized software by the name sqlite3
 l) Advanced - there is another file with the name 'thisisabackdoor.exe' on the server. It could be potentially used by the netcat utility program as a backdoor. See if you can find it and remove it
 
