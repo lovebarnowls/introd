@@ -27,7 +27,7 @@ msg = Unwanted user %PARAMETER% has been removed:
 enabled = yes
 tag = User Management
 pointValue = 1
-parameters = yang
+parameters = courtney
 description = Users that need to be added to the system
 msg = New user %PARAMETER% added to system 
 
@@ -35,7 +35,7 @@ msg = New user %PARAMETER% added to system
 enabled = yes
 tag = User Management
 pointValue = -10
-parameters = ivan james ron
+parameters = yang james ron
 description = Users that are required on the system
 msg = Essential user %PARAMETER% has been removed!
 
