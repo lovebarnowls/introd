@@ -37,9 +37,9 @@ For our practice images, because some students will finish faster than others, w
 
 For this image, here are some extension questions:
 1) Create a group called 'needsmoresleep'
-2) Add user yang to the group 'needsmoresleep'
+2) Add user courtney to the group 'superawesome'
 3) Look up this file. Who is the current owner? 
 /home/chris/desktop/ilovevic/lullaby.txt
-4) Change the owner of the following file to user 'yang' and group 'needsmoresleep'
+4) Change the owner of the above file to user 'courtney' and group 'superawesome'
 5) How can i know if I managed to do it correctly?
 
