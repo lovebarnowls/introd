@@ -5,7 +5,6 @@ sudo useradd chris
 sudo useradd yang
 sudo useradd james
 sudo useradd sam
-sudo passwd -d ron
 sudo usermod -aG sudo ron
 sudo usermod -aG sudo sam
 sudo mkdir -p /home/yang/desktop/iloveqld
