@@ -34,7 +34,7 @@ msg = New user %PARAMETER% added to system
 [03-GoodUsers:Required_users]
 enabled = yes
 tag = User Management
-pointValue = -10
+pointValue = -20
 parameters = yang james ron
 description = Users that are required on the system
 msg = Essential user %PARAMETER% has been removed!
