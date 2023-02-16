@@ -107,7 +107,7 @@ msg = Account policy has been made more secure by %PARAMETER%
 enabled = yes
 tag = Unwanted Software
 pointValue = 2
-parameters = john rkhunter sqlite3
+parameters = john rkhunter terminator
 description = Packages that are not allowed on the system
 msg = Unwanted software %PARAMETER% removed
 
