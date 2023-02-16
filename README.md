@@ -6,6 +6,9 @@ sudo apt-get update
 sudo apt install git
 sudo git clone https://github.com/lovebarnowls/introd.git
 cd introd
+mv /home/ubuntu/introd/score.py /usr/local/bin/pysel/
+mv /home/ubuntu/introd/pysel.py /usr/local/bin/pysel/
+mv /home/ubuntu/introd/Event_checks/* /usr/local/bin/pysel/Event_checks/
 sudo chmod a+x *.sh
 sudo -H ./inject.sh
 sudo -H ./install.sh
