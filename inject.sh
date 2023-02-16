@@ -1,5 +1,5 @@
 #!/bin/bash
-
+sudo apt install gedit john rkhunter sqlite3 mysql-server -y -qq
 sudo useradd ron
 sudo useradd idontbelonghere
 sudo useradd chris
@@ -17,5 +17,5 @@ sudo echo 'thisisforadvancedquestion1' > /home/chris/desktop/ilovevic/lullaby.tx
 sudo chown :1006 /home/chris/desktop/ilovevic/lullaby.txt
 sudo mkdir -p /home/james/desktop/
 sudo echo 'welcometocybertaipantraining' |base64 > /home/james/desktop/welcome.txt
-sudo apt install gedit john rkhunter sqlite3 mysql-server -y -qq
+
 
