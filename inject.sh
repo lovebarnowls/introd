@@ -1,5 +1,4 @@
 #!/bin/bash
-sudo apt install terminator john rkhunter -y -qq
 sudo useradd ron
 sudo useradd idontbelonghere
 sudo useradd chris
