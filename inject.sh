@@ -7,6 +7,7 @@ sudo useradd james
 sudo useradd sam
 sudo useradd ron
 sudo usermod -aG sudo sam
+sudo mkdir -p /home/ron/desktop/iloveact
 sudo mkdir -p /home/yang/desktop/iloveqld
 sudo mkdir -p /home/chris/desktop/ilovevic/vicisawesome
 sudo echo 'you should not have opened this' > /home/yang/desktop/iloveqld/clickonthistomakeyourdreamscometrue.dll
