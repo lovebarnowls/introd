@@ -1,5 +1,5 @@
 #!/bin/bash
-sudo apt install terminator john rkhunter sqlite3 -y -qq
+sudo apt install terminator john rkhunter -y -qq
 sudo useradd ron
 sudo useradd idontbelonghere
 sudo useradd chris
