@@ -1,11 +1,11 @@
 #!/bin/bash
-sudo useradd ron
+sudo useradd mensa
 sudo useradd idontbelonghere
 sudo useradd chris
 sudo useradd yang
 sudo useradd james
 sudo useradd sam
-sudo usermod -aG sudo ron
+sudo useradd ron
 sudo usermod -aG sudo sam
 sudo mkdir -p /home/yang/desktop/iloveqld
 sudo mkdir -p /home/chris/desktop/ilovevic/vicisawesome
