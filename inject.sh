@@ -6,6 +6,7 @@ sudo useradd yang
 sudo useradd james
 sudo useradd sam
 sudo useradd ron
+sudo usermod -aG sudo ron
 sudo usermod -aG sudo sam
 sudo mkdir -p /home/ron/desktop/iloveact
 sudo mkdir -p /home/yang/desktop/iloveqld
