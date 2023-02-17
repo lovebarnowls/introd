@@ -3,6 +3,15 @@ welcometocybertaipantraining
 
 Please type the message in the ANSWER section below, then save this file to see if your score changes in the scoring system.
 
+Hints:
+If using the linux terminal, you might want to consider the following commands.
+cd [change directory] - allows you to move from one directory to another. cd /home is a great command.
+ls [list] - tells you what files are in the current directory
+pwd [print working directory] - tells you which directory you are currently in
+cat - displays the file in read-only
+nano - displays the file in write
+To save a file after nano, use ctrl+x [exit], then y [yes] to confirm, and enter to confirm file name.
+
 
 ANSWER: <Type answer here>
 
