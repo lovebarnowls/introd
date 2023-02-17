@@ -1,7 +1,7 @@
 Ron has a welcome message for everyone:
 welcometocybertaipantraining
 
-Please type the message in the ANSWER section below
+Please type the message in the ANSWER section below, then save this file to see if your score changes in the scoring system.
 
 
 ANSWER: <Type answer here>
