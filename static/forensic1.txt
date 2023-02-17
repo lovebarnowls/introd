@@ -1,5 +1,8 @@
-There is a text file on the desktop of user james. It is encoded in base64.
-What is the message?
+Ron has a welcome message for everyone:
+welcometocybertaipantraining
+
+Please type the message in the ANSWER section below
+
 
 ANSWER: <Type answer here>
 
