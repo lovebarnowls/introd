@@ -35,10 +35,11 @@ k) Advanced - there is another file with the name 'thisisabackdoor.exe' on the s
 For our practice images, because some students will finish faster than others, we may include unscored extra questions in the readme as an extension and challenge.
 
 For this image, here are some extension questions:
-1) Create a group called 'needsmoresleep'
-2) Add user courtney to the group 'superawesome'
-3) Look up this file. Who is the current owner? 
-/home/chris/desktop/ilovevic/lullaby.txt
+1) Create a group called 'superawesome'
+2) Add users courtney and ron to the group 'superawesome'
+3) Be sure you do NOT remove ron from sudo by accident.
+4) Look up this file. Who is the current owner? 
+/home/chris/desktop/ilovevic/cyberiscool.txt
 4) Change the owner of the above file to user 'courtney' and group 'superawesome'
 5) How can i know if I managed to do it correctly?
 
