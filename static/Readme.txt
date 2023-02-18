@@ -2,8 +2,6 @@ Welcome to CyberTaipan training: Introduction to the scoring service.
 
 Through this image, it is hoped that you will get familiar with the scoring service, and at the same time, to gain some familiarity with how the system works.
 
-Note: Users on AWS may need to run the following code if they don't have permissions to write files etc:
-sudo -i
 
 
 To begin, please open 'ScoreReport.html' on your Desktop when it loads.
@@ -18,6 +16,18 @@ The score report reloads every 120 seconds, so if you think you have done someth
 There is normally a scenario introduction, but we will leave scenarios for future instances.
 For today, try to do the following, and regularly check the scoring system for your score.
 
+
+
+There will be some people who will prefer to use the GUI (Graphic User Interface), and some who would prefer to use the CLI (Command Line Interface).
+For CLI users, please start with the command to operate as root:
+sudo -i
+
+You can find a hint file for all questions a-k at the following link.
+Try to solve them on your own before using a hint.
+https://docs.google.com/document/d/1JF9PfLcLPPmuW2NOxnwpqFn1mKHNzgRVmGbsqo0oYO8/edit?usp=sharing
+
+
+Here are your tasks:
 
 a) Answer forensic1
 b) Answer forensic2
