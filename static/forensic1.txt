@@ -4,11 +4,6 @@ welcometocybertaipantraining
 Please type the message in the ANSWER section below, then save this file to see if your score changes in the scoring system.
 
 Hints:
-If you are using the Graphic User Interaface (GUI) and you have opened this file by double-clicking, you can navigate around this page by using up down left right buttons.
-You can also use backspace to delete, like a normal text file.
-The only tricky bit is saving - you will need to use ctrl+x AND ctrl-s to save the file.
-
-Additional hints for CLI people:
 If using the linux terminal, you might want to consider the following commands.
 cd [change directory] - allows you to move from one directory to another. cd /home is a great command.
 ls [list] - tells you what files are in the current directory
