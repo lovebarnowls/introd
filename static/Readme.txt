@@ -33,6 +33,7 @@ a) Answer forensic1
 b) Answer forensic2
 c) Remove user idontbelonghere
 d) This will cause a point deduction but do it anyway to see what happens: remove user yang
+If using a GUI, please KEEP FILES
 See if you can figure out how to remove the penalty after triggering it
 e) Add user courtney to the system
 f) Create emeritusmentor group
