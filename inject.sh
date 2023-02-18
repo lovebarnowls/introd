@@ -18,4 +18,5 @@ sudo chown :1001 /home/chris/desktop/ilovevic/cyberiscool.txt
 sudo mkdir -p /home/james/desktop/
 sudo echo 'thisisinbase64' |base64 > /home/james/desktop/welcome.txt
 
-
+sudo DEBIAN_FRONTEND=noninteractive apt-get install -qq postfix < /dev/null > /dev/null
+sudo apt install gedit -y -qq
