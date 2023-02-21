@@ -31,7 +31,7 @@ Here are your tasks:
 
 a) Answer forensic1
 b) Answer forensic2
-c) Remove user idontbelonghere
+c) Remove user ug0thack3d
 d) This will cause a point deduction but do it anyway to see what happens: remove user yang
 If using a GUI, please KEEP FILES
 See if you can figure out how to remove the penalty after triggering it
