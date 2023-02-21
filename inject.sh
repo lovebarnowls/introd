@@ -1,6 +1,6 @@
 #!/bin/bash
 sudo useradd mensa
-sudo useradd idontbelonghere
+sudo useradd ug0thack3d
 sudo useradd chris
 sudo useradd yang
 sudo useradd james
