@@ -19,9 +19,9 @@ msg = Forensic question %PARAMETER% is correct
 enabled = yes
 tag = User Management
 pointValue = 3
-parameters = idontbelonghere
+parameters = ug0thack3d
 description = Users that should be removed from the system 
-msg = Unwanted user %PARAMETER% has been removed: 
+msg = Unwanted user %PARAMETER% has been removed: ug0thack3d
 
 [02-AddMacDee:Add_users]
 enabled = yes
