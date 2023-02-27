@@ -21,7 +21,7 @@ tag = User Management
 pointValue = 3
 parameters = ug0thack3d
 description = Users that should be removed from the system 
-msg = Unwanted user %PARAMETER% has been removed: ug0thack3d
+msg = Unwanted user %PARAMETER% has been removed: 
 
 [02-AddMacDee:Add_users]
 enabled = yes
@@ -70,6 +70,23 @@ pointValue = 3
 parameters = /etc/group:emeritusmentor
 description = Text you would like added to file
 msg = Group emeritusmentor has been created
+
+
+[6B-WebdevGroupCreated:File_now_contains]
+enabled = yes
+tag = Local Policy
+pointValue = 0
+parameters = /etc/group:superawesome
+description = Text you would like added to file
+msg = Group superawesome has been created
+
+[6C-CharlieDeeWebDev:Add_to_group]
+enabled = yes
+tag = User Management
+pointValue = 0
+parameters = ron:superawesome courtney:superawesome
+description = Users that are required to be in a group
+msg = User %PARAMETER% is now in group
 
 [07-DisableGuestEtc:Secure_lightdm]
 enabled = no
