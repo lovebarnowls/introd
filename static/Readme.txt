@@ -46,8 +46,8 @@ k) Advanced - there is another file with the name 'thisisabackdoor.exe' on the s
 For our practice images, because some students will finish faster than others, we may include unscored extra questions in the readme as an extension and challenge.
 
 For this image, here are some advanced extension questions:
-1) Create a group called 'superawesome'
-2) Add users courtney and ron to the group 'superawesome'
+1) Create a group called 'superawesome' [scores 0 points on scoring system]
+2) Add users courtney and ron to the group 'superawesome' [scores 0 points on scoring system]
 3) Be sure you do NOT remove ron from sudo by accident.
 4) Look up this file. Who is the current owner? 
 /home/chris/desktop/ilovevic/cyberiscool.txt
